@@ -1,4 +1,5 @@
 **ECommerce Store System**
+
 Overview: 
 The E-Commerce Store Management System is a console-based Java application developed as a Programming Fundamentals project. The system simulates a basic online shopping platform where customers can register, log in, browse products, manage a shopping cart, and complete purchases. It also provides administrative functionalities that allow managers to add, modify, and delete products from the store inventory.
 The project demonstrates the practical implementation of core programming concepts such as file handling, arrays, array lists, loops, conditional statements, methods, exception handling, and user authentication.
